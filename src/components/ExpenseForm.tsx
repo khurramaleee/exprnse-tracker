@@ -1,6 +1,6 @@
-import React from "react";
+
 import { categories } from "../categories";
-import { date, z } from "zod";
+import { z } from "zod";
 import { useForm } from "react-hook-form";
 import { zodResolver } from "@hookform/resolvers/zod";
 import "../index.css";
