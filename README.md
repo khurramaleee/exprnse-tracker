@@ -16,6 +16,7 @@ A simple expense tracking application built with React, TypeScript, and Vite.
 - [ESLint Configuration](#eslint-configuration)
 - [Vite Configuration](#vite-configuration)
 - [License](#license)
+- [Live Site](#live-site)
 
 ## Features
 
@@ -48,38 +49,8 @@ A simple expense tracking application built with React, TypeScript, and Vite.
 - `vite.config.ts`: Vite configuration file
 - `README.md`: This file
 
-## Components
+## Live Site
 
 ---
 
-- `ExpenseForm.tsx`: Form component for adding new expenses
-- `ExpenseList.tsx`: Component for displaying a list of expenses
-
-## Libraries and Tools
-
----
-
-- `React`: Front-end library for building user interfaces
-- `TypeScript`: Superset of JavaScript for type checking and other features
-- `Vite`: Build tool for fast and efficient development
-- `Bootstrap`: CSS framework for responsive design
-- `Zod`: Library for validation and parsing data
-- `React Hook Form`: Library for form handling and validation
-
-## ESLint Configuration
-
----
-
-This project uses ESLint for code linting and formatting. The configuration is defined in `README.md` and includes rules for React, TypeScript, and other libraries.
-
-## Vite Configuration
-
----
-
-This project uses Vite for building and serving the application. The configuration is defined in `vite.config.ts` and includes plugins for React and other features.
-
-## License
-
----
-
-This project is licensed under the MIT License. See `LICENSE` for details.
+The application is live at: https://66d426a389fa9df7fd49d66c--simpletrackerexp.netlify.app
